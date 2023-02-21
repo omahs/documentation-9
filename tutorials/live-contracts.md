@@ -147,7 +147,7 @@ actions:
 {% endtab %}
 {% endtabs %}
 
-The _complete_ action can be performed by the _initiator_ actor. The intend of this action is to complete the process. However, that transition needs to be defined in the state.
+The _complete_ action can be performed by the _initiator_ actor. The intent of this action is to complete the process. However, that transition needs to be defined in the state.
 
 ### The initial state
 
